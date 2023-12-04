@@ -7,5 +7,5 @@ Age,Employment Status,Years of Status,Income-Pension(Annual),Home Type,Years Own
 23,Unemployed,0.6,10000,Living with Parents,0,780,96%,0,0,CarInsurance PersonalLoan (200 300),3 (1 approved 2 denied),Medical Expenses,Car Purchase Vacation,Children (1) 
 32,Employed,8,70000,Freehold,8,750,90%,2,0,HomeInsurance, UtilitiesBills (100 120),2 (both denied),Home Improvement,Education,N/A
 40,Employed,12,55000,Rented,12,720,88%,2,0,CreditCard Subscriptions (150 80),3 (2 approved 1 denied),Debt Consolidation,Medical Car Purchase,Spouse Children (3) 
-60, Retired,20,50000, Freehold,20,710,80%,1,0, HomeInsurance HealthInsurance (500 250,4 (3 approved 1 denied), Travel, Education Home Renovation, Spouse
+60, Retired,20,50000, Freehold,20,710,80%,1,0, HomeInsurance HealthInsurance (500 250),4 (3 approved 1 denied), Travel, Education Home Renovation, Spouse, N/A
 25,Unemployed,25,0,Living with Parents,0,40,60%,4,3,N/A,1 (denied),N/A,N/,N/A
