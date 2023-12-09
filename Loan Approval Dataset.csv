@@ -1,10 +1,10 @@
-Name,Age,Employment,Years of Status,Income/Pension(Annual),Home Type,Years Owned/Rented,Credit Scores,On-Time Payment History,Missed/Late Payment History,Financial Obligations,Dependents
-Adam,50,Retired,10,40000,Freehold,20,825,100,0,300,Parents
-Shella,45,Employed,20,80000,Mortgage,14,780,95,0,450,Children
-Shawn,35,Employed,5,60000,Rented,7,710,85,1,150,Spouse Children
-Lexi,50,Employed,15,100000,Freehold,25,825,98,2,500,Children
-Poppy,28,Employed,3,23000,Rented,3,625,75,4,140,N/A
-Becky,32,Employed,8,71000,Freehold,8,750,90,2,220,Spouse
-Harry,40,Employed,12,55000,Rented,12,720,88,2,230,Spouse Children
-Mindy,60,Retired,20,50000,Freehold,20,710,80,1,750,N/A
-Mike,22,Unemployed,2,5000,Rented,0,710,80,0,0,N/A
+Name,Age,Marital Status,Employment,Income/Pension(Annual),HomeType,Years Owned/Rented,On-Time Payment History,Missed/Late Payment History,Loan Approval History,Loan Denial History,Credit Scores
+Charlie,50,Married,Retired,40000,Freehold,20,100,0,3,1,825
+Chandler,45,Married,Employed,80000,Mortgage,14,95,0,2,0,780
+Brie,35,Single,Employed,60000,Rented,7,85,1,2,1,710
+Carlos,50,Married,Employed,100000,Freehold,25,98,2,3,1,825
+Jude,28,Single,Employed,23000,Rented,3,75,4,1,0,625
+Emma,32,Married,Employed,71000,Freehold,8,90,2,2,0,750
+Hannah,40,Married,Employed,55000,Rented,12,88,2,2,1,720
+Jay,60,Married,Retired,50000,Freehold,20,80,1,3,1,710
+Liza,22,Single,Unemployed,5000,Rented,0,80,0,1,0,710
