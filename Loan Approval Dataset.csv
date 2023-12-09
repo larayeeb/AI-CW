@@ -1,10 +1,32 @@
-Name,Age,Marital Status,Employment,Income/Pension(Annual),HomeType,Years Owned/Rented,On-Time Payment History,Missed/Late Payment History,Loan Approval History,Loan Denial History,Credit Scores
-Charlie,50,Married,Retired,40000,Freehold,20,100,0,3,1,825
-Chandler,45,Married,Employed,80000,Mortgage,14,95,0,2,0,780
-Brie,35,Single,Employed,60000,Rented,7,85,1,2,1,710
-Carlos,50,Married,Employed,100000,Freehold,25,98,2,3,1,825
-Jude,28,Single,Employed,23000,Rented,3,75,4,1,0,625
-Emma,32,Married,Employed,71000,Freehold,8,90,2,2,0,750
-Hannah,40,Married,Employed,55000,Rented,12,88,2,2,1,720
-Jay,60,Married,Retired,50000,Freehold,20,80,1,3,1,710
-Liza,22,Single,Unemployed,5000,Rented,0,80,0,1,0,710
+Name, Age, Marital Status, Employment Status, Income/Pension (Annual), Home Type, Years Owned/Rented, On-Time Payment History, Missed/Late Payment History, Loan Approval History, Loan Denial History, Credit Scores
+Charlie, 50, Married, Retired, 40000, Freehold, 20, 100, 0, 3, 1, 825
+Chandler, 45, Single, Employed, 80000, Mortgage, 14, 95, 0, 2, 0, 780
+Brie, 35, Married, Employed, 60000, Rented, 7, 85, 1, 2, 1, 710
+Carlos, 50, Divorced, Employed, 100000, Freehold, 25, 98, 2, 3, 1, 825
+Jude, 28, Single, Employed, 23000, Rented, 3, 75, 4, 1, 0, 625
+Emma, 32, Married, Employed, 71000, Freehold, 8, 90, 2, 2, 0, 750
+Hannah, 40, Divorced, Employed, 55000, Rented, 12, 88, 2, 2, 1, 720
+Jay, 60, Married, Retired, 50000, Freehold, 20, 80, 1, 3, 1, 710
+Liza, 22, Single, Unemployed, 5000, Rented, 0, 80, 0, 1, 0, 710
+Aisha, 48, Married, Employed, 72000, Mortgage, 18, 92, 1, 2, 0, 790
+Raj, 55, Single, Employed, 95000, Freehold, 22, 97, 0, 3, 0, 810
+Mei, 30, Married, Self-Employed, 58000, Mortgage, 10, 82, 3, 1, 1, 700
+Diego, 42, Divorced, Employed, 88000, Freehold, 16, 89, 2, 2, 0, 740
+Sophie, 37, Single, Employed, 66000, Rented, 9, 86, 1, 2, 1, 720
+Khalid, 52, Married, Employed, 105000, Freehold, 28, 99, 1, 4, 0, 830
+Mia, 25, Single, Employed, 35000, Rented, 5, 70, 5, 0, 1, 650
+Yusuf, 44, Married, Employed, 78000, Mortgage, 15, 94, 0, 2, 0, 770
+Lina, 27, Single, Employed, 42000, Rented, 4, 78, 3, 1, 1, 690
+Nikhil, 33, Married, Employed, 69000, Mortgage, 11, 87, 2, 2, 0, 730
+Isabella, 29, Divorced, Employed, 46000, Freehold, 6, 79, 4, 1, 1, 700
+Zara, 49, Single, Employed, 74000, Rented, 17, 93, 1, 3, 0, 780
+David, 58, Married, Retired, 68000, Freehold, 23, 85, 2, 4, 1, 720
+Olivia, 31, Single, Employed, 51000, Mortgage, 7, 81, 3, 1, 0, 710
+Ahmed, 47, Married, Employed, 90000, Freehold, 21, 96, 0, 3, 0, 800
+Elena, 39, Divorced, Employed, 62000, Rented, 13, 88, 1, 2, 1, 740
+Sofia, 34, Single, Employed, 57000, Mortgage, 9, 84, 2, 2, 0, 720
+Gabriel, 26, Married, Employed, 40000, Freehold, 4, 76, 4, 1, 1, 680
+Lucas, 41, Single, Employed, 74000, Rented, 14, 91, 0, 2, 0, 760
+Emily, 36, Married, Employed, 63000, Mortgage, 10, 83, 2, 2, 1, 710
+Nina, 53, Single, Employed, 98000, Freehold, 25, 95, 1, 3, 0, 820
+Malik, 43, Married, Employed, 85000, Rented, 19, 90, 0, 2, 1, 750
